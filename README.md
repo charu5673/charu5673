@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hello 👋</h1>
 
 ###
 
-<p align="left">My name is Charu and I'm a full stack developer, from India</p>
+<p align="left">My name is Charu and I'm a full stack developer :)</p>
 
 ###
 
